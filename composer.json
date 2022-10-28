@@ -21,7 +21,7 @@
   "require": {
     "php": "^7.0|^8.0",
     "ext-curl": "*",
-    "ballparc/sharefile-api": "^2.0",
+    "ballparc/sharefile-api": "^2.1",
     "league/flysystem": "^1.0.41"
   },
   "require-dev": {
